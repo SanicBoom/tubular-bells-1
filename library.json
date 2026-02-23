@@ -22,5 +22,67 @@
     "fs3_p_rr1": "chimes_F#3_p_rr1.wav",
     "gs3_ff_rr1": "chimes_G#3_ff_rr1.wav",
     "gs3_p_rr2": "chimes_G#3_p_rr2.wav"
-  }
+  },
+  "noteMap": [
+    {
+      "note": "C3",
+      "sample": "c3_f_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "D3",
+      "sample": "d3_ff_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "E3",
+      "sample": "e3_pp_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "F#3",
+      "sample": "fs3_fff_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "F#3",
+      "sample": "fs3_p_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "G#3",
+      "sample": "gs3_ff_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "A#3",
+      "sample": "as3_ff_rr1",
+      "loVel": 64,
+      "hiVel": 127
+    },
+    {
+      "note": "A#3",
+      "sample": "as3_pp_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "C4",
+      "sample": "c4_p_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    },
+    {
+      "note": "D4",
+      "sample": "d4_p_rr1",
+      "loVel": 0,
+      "hiVel": 63
+    }
+  ]
 }
